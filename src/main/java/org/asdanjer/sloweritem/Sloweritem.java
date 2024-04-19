@@ -22,6 +22,7 @@ public final class Sloweritem extends JavaPlugin implements Listener {
 
     @Override
     public void onEnable() {
+        saveDefaultConfig();
         velmax = getConfig().getDouble("velmax");
         signText = getConfig().getString("signText");
         trigerblock = Material.getMaterial(getConfig().getString("signType") + "_WALL_SIGN");
