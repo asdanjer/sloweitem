@@ -1,3 +1,4 @@
+#Maximum speed items travel that get despensed into a block containg the sign of type signType and the text signText (0.15 recommended for 4 tick checks)
 velmax: 0.15
 #Text on the sign
 signText: "Deutsche Bahn"

@@ -6,7 +6,9 @@
 
   <groupId>org.asdanjer</groupId>
   <artifactId>sloweritem</artifactId>
+  <version>1.0</version>
   <packaging>jar</packaging>
+
 
   <name>sloweritem</name>
 
