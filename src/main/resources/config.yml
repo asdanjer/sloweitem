@@ -1,0 +1,6 @@
+#Speed limit for the Items that get despensed inside a wall sign of type signtype with signText on it (0.15 recomended)
+velmax: 0.15
+#Text on the sign
+signText: "Deutsche Bahn"
+#Type of the sign
+signType: "BAMBOO"

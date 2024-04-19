@@ -1,0 +1,4 @@
+name: sloweritem
+version: '${project.version}'
+main: org.asdanjer.sloweritem.Sloweritem
+api-version: '1.20'
